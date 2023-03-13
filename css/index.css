@@ -1,5 +1,4 @@
-@import "global.css";
-@import "controls.css";
-@import "header.css";
-@import "products.css";
-@import "footer.css";
+.btn-info {
+    --bs-btn-bg: red;
+    background-color: red;
+}
